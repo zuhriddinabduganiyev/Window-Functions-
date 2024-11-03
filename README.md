@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 English
 
@@ -71,3 +72,7 @@ Foydalanish usuli
 	2.	Window_Functions.ipynb faylini Jupyter Notebook-da oching.
 	3.	SQL oyna funksiyalarini o‘rganish va amaliyot uchun kataklarni kuzatib boring.
 
+=======
+# Window-Functions-
+Window Functions in PostgreSQL, courseworks in DataCamp.
+>>>>>>> 92af483330ae48fe2bdc13fed2b48ef3c824cac2
